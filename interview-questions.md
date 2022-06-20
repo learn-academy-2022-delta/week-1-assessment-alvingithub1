@@ -68,12 +68,12 @@ INSTRUCTOR EXAMPLE: What is a conditional statement?
 
 Research and define the following terms to the best of your ability.
 
-1. Higher Order Functions:
+1. Higher Order Functions: Functions that perform operations on other operations. Essentially, it is a function in a function.
 
-2. Jest:
+2. Jest: A JavaScript testing framework. Jest allows the user to create tests to ensure the codebase is correct and operable.
 
-3. Objects:
+3. Objects: An entity that has state and behavior.
 
-4. Method:
+4. Method: Property of an object that contains a function definition. Methods can perform action on objects.
 
-5. Classes:
+5. Classes: Blueprint for creating objects. Classes encapsulate data with code to work on that data.
